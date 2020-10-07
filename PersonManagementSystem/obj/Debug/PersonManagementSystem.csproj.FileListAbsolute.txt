@@ -1,0 +1,10 @@
+C:\Users\Thalitha\source\repos\PersonManagementSystem\PersonManagementSystem\bin\Debug\PersonManagementSystem.exe.config
+C:\Users\Thalitha\source\repos\PersonManagementSystem\PersonManagementSystem\bin\Debug\PersonManagementSystem.exe
+C:\Users\Thalitha\source\repos\PersonManagementSystem\PersonManagementSystem\bin\Debug\PersonManagementSystem.pdb
+C:\Users\Thalitha\source\repos\PersonManagementSystem\PersonManagementSystem\obj\Debug\PersonManagementSystem.csprojAssemblyReference.cache
+C:\Users\Thalitha\source\repos\PersonManagementSystem\PersonManagementSystem\obj\Debug\PersonManagementSystem.Form1.resources
+C:\Users\Thalitha\source\repos\PersonManagementSystem\PersonManagementSystem\obj\Debug\PersonManagementSystem.Properties.Resources.resources
+C:\Users\Thalitha\source\repos\PersonManagementSystem\PersonManagementSystem\obj\Debug\PersonManagementSystem.csproj.GenerateResource.cache
+C:\Users\Thalitha\source\repos\PersonManagementSystem\PersonManagementSystem\obj\Debug\PersonManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Thalitha\source\repos\PersonManagementSystem\PersonManagementSystem\obj\Debug\PersonManagementSystem.exe
+C:\Users\Thalitha\source\repos\PersonManagementSystem\PersonManagementSystem\obj\Debug\PersonManagementSystem.pdb
